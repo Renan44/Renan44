@@ -4,11 +4,21 @@ Olá 👋
 <div align="center">
   <a href="https://github.com/Renan44">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renan44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan44&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan44&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br>
+<div style="display:inline-block;align="center";">
+Conhecimentos específicos em
+<img align="center" height="20" width="80"  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">->
+<img align="center" height="30" width="85" src= "https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </div>
+<br>
+<div style="display:inline-block;">
+Ferramentas -> 
+<img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+<img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+</div>
+ 
 
 ##
 
